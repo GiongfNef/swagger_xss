@@ -4,7 +4,7 @@
         "url": "https://raw.githubusercontent.com/GiongfNef/DOM_XSS_Checker/refs/heads/main/xss1.yaml",
         "name": "Foo"
     },{
-        "url": "https://raw.githubusercontent.com/GiongfNef/DOM_XSS_Checker/refs/heads/main/fetch.yaml",
+        "url": "https://raw.githubusercontent.com/GiongfNef/DOM_XSS_Checker/refs/heads/main/fetch1.yaml",
         "name": "Foo2"
     }]
 }
