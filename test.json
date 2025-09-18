@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/GiongfNef/swagger_xss/refs/heads/main/test.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/GiongfNef/swagger_xss/refs/heads/main/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "hhttps://raw.githubusercontent.com/GiongfNef/swagger_xss/refs/heads/main/test.yaml",
+        "name": "Foo2"
+    }]
+}
