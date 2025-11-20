@@ -1,8 +1,8 @@
 {
-    "url": "https://GiongfNef.github.io/swagger_xss/swaggerhtmli.yaml",
+    "url": "https://raw.githubusercontent.com/GiongfNef/swagger_xss/refs/heads/main/swaggerhtmli.yaml",
     "urls": [
         {
-            "url": "https://GiongfNef.github.io/swagger_xss/swaggerhtmli.yaml",
+            "url": "https://raw.githubusercontent.com/GiongfNef/swagger_xss/refs/heads/main/swaggerhtmli.yaml",
             "name": "Foo"
         }
     ]
